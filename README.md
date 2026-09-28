@@ -5,6 +5,7 @@
 💫What's New in Version.1.2✨
 
 ✴️🎮 4 Game Modes:
+
  🔹Player vs Bot 
  🔹2 Player
  🔹3 Player 
