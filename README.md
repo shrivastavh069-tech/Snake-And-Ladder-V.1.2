@@ -12,11 +12,17 @@
  🔹4 Player
  
 ✴️  🎲 Random Dice System
+
 ✴️  🐍 Snake & Ladder Mechanics
+
 ✴️  🏆 Winner Detection
+
 ✴️  🎨 Emoji-Based Board & Tokens
+
 ✴️  🔄 Turn-Based Gameplay
+
 ✴️  ⌨️ Interactive CLI Controls
+
 
 ✴️Tech: 
   ~🐍 Python 
