@@ -10,7 +10,8 @@
  🔹2 Player
  🔹3 Player 
  🔹4 Player
- 
+
+
 ✴️  🎲 Random Dice System
 
 ✴️  🐍 Snake & Ladder Mechanics
@@ -24,6 +25,7 @@
 ✴️  ⌨️ Interactive CLI Controls
 
 
+
 ✴️Tech: 
   ~🐍 Python 
   ~random 
@@ -31,6 +33,7 @@
   ~Functions 
   ~Dictionaries 
   ~Loops
+
 
 ✴️ Cycle  
 Roll 🎲 → Move → Snake/Ladder 🐍🪜 → Race to 100 👑
